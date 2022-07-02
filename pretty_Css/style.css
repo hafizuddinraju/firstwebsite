@@ -1,0 +1,29 @@
+h1{
+    background-color: gray;
+    color: green;
+    text-align: center;
+}
+.blog1{
+    color: greenyellow;
+    background-color: gray;
+    padding: 20px;
+    margin: 20px;
+}
+.blog2{
+    color: red;
+    background-color: burlywood;
+    padding: 20px;
+    margin: 20px;
+}
+.blog3{
+    color: blue;
+    background-color: gray;
+    padding: 20px;
+    margin: 20px;
+}
+.raju{
+    color: red;
+}
+.shanto{
+    color: black;
+}
